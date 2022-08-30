@@ -8,7 +8,7 @@ html{
 --secound-bg-color: #f9f9f9;    
 --text-color: #fff;
 --secound-color: #161616;    
---main-color: #ef0454;
+--main-color: #1bcb0f;
 --other-color: #6a6a6a;
 --big-font: 5.7rem;
 --h2-font: 3.8rem;    
@@ -33,7 +33,7 @@ padding: 15px 6%;
 
 }
 .logo{
-    padding-left: 15%;
+    padding-left: 10%;
     font-size: 1.9rem;
     text-decoration: none;
     font-weight: 600;
@@ -53,7 +53,7 @@ span{
     color: var(--text-color);
     font-weight: 500;
     font-size:  1rem;
-    padding: 10px 20px;
+    padding: 10px 10px;
 }.navlist a::after{
     content: '';
     width: 0;
@@ -100,7 +100,7 @@ section{
 }
 .home{
     height: 100vh;
-    width: 100%;
+    width: 100vh;
 
     background: url(../img/background.jpg);
  
